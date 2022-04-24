@@ -4,7 +4,7 @@ const fimg = document.getElementById('image');
 const fchar = document.getElementById('charname');
 const fquote = document.getElementById('quote');
 const ftitle = document.getElementById('title_');
-const pic = ["../images/chandler-bing_1.jpg", "../images/monica_1.jpg", "../images/phoebe_3.jpg", "../images/ross_1.jpg", "../images/joey_1.jpg"];
+const pic = ["https://im.indiatimes.in/content/2020/Mar/Webpnet-resizeimage-60_5e5ca3a06cc0d.jpg", "https://i.pinimg.com/736x/e8/d9/bd/e8d9bdc79401b3c4d52356ba1a69fea0.jpg", "https://i.pinimg.com/736x/06/db/fb/06dbfbe25e8512cd41fb1f188f4abfa9.jpg", "https://cdn11.bigcommerce.com/s-e4notjahj4/images/stencil/original/products/718/3321/AC24-MAY-Ross__68623.1582460285.jpg", "https://i.pinimg.com/originals/d1/08/b5/d108b5312e6160b288aa9a5a48df2519.jpg"];
 
 async function init() {       
     const response = await fetch(url);
