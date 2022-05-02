@@ -1,6 +1,6 @@
 # API
 
-•	JavaScript can send network requests to the server and load new information whenever it’s needed.
+*	JavaScript can send network requests to the server and load new information whenever it’s needed.
 
 •	we can use a network request to:
 Submit an order,
