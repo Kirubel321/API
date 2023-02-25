@@ -1,5 +1,5 @@
 let i = 0;
-const url ="'https://api.api-ninjas.com/v1/quotes?category=' + category,";
+const url ="https://friends-quotes-api.herokuapp.com";
 const fimg = document.getElementById('image');
 const fchar = document.getElementById('charname');
 const fquote = document.getElementById('quote');
